@@ -42,7 +42,8 @@
 
 .navMenu {
   display: block;
-  visibility: visible;
+  visibility: hidden;
+  /* после меняем на visible */
 }
 
 .menuList {

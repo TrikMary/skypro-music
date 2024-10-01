@@ -14,6 +14,26 @@ export const PlayList = () => {
             <Track />
             <Track />
             <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
+            <Track />
        
       </div>
     )
